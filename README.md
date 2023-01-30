@@ -41,7 +41,7 @@ For generating the figures 6.1 - 6.6 from the work, run
 - generateFigure6_5
 - generateFigure6_6
 
-## Requirements
+## Requirements and additional information
 The computations have been carried out on a MacBook Pro 15“ model from 2018.
 Generating all figures from scratch takes approximately 2-3 days.
 Computations have been carried out using the Matlab 2020a version.
