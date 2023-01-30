@@ -10,7 +10,7 @@ or can be obtained from http://www.gnu.org/licenses/
 ## Content of this project
 This is a guide to generate the figures that have been used in the work
 
-**„Maximizing the electromagnetic chirality of thin dielectric tubes“ **
+**„Maximizing the electromagnetic chirality of thin dielectric tubes“**
 
 _By Tilo Ares, Roland Griesmaier and Marvin Knöller._
 
