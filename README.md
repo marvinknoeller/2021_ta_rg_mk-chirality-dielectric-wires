@@ -16,7 +16,7 @@ _By Tilo Ares, Roland Griesmaier and Marvin Knöller._
 
 You find all needed Matlab files in the folders. 
 
-## An overview:
+## An overview
 - [ ] The folder **AuxiliaryUtilities** includes the files _dotReal_ (dot-product)
 _eval_phi_ (needed for the BFGS method)
  _Tensor_Mat_Mult_ (multiplies 2 3-tensors slice by slice along the third dimension)
