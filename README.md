@@ -17,10 +17,10 @@ _By Tilo Ares, Roland Griesmaier and Marvin Knöller._
 You find all needed Matlab files in the folders. 
 
 ## An overview:
-- []The folder **AuxiliaryUtilities** includes the files _dotReal_ (dot-product)
+- [] The folder **AuxiliaryUtilities** includes the files _dotReal_ (dot-product)
 								   _eval_phi_ (needed for the BFGS method)
 								   _Tensor_Mat_Mult_ (multiplies 2 3-tensors slice by slice along the third dimension)
-- []The folder **ChiralityUtilities** includes the files _chiral_ (computes chirality measures)
+- [] The folder **ChiralityUtilities** includes the files _chiral_ (computes chirality measures)
 								  _FarFieldMatrixFunction_(s) (computes FarFieldOperator approximations given parameters and a curve)
 - [] The folder **Derivatives** includes all derivates that are needed in the BFGS method especially derivates of 
 -far field operators
