@@ -47,5 +47,5 @@ Generating all figures from scratch takes approximately 2-3 days.
 Computations have been carried out using the Matlab 2020a version.
 
 The code uses parallelization from the Matlab Parallelization Toolbox.
-The code requires the Maxwell_VSH toolbox.
+The code requires the Maxwell_VSH toolbox (see https://git.scc.kit.edu/ianmip-software/maxwell-vsh).
 
