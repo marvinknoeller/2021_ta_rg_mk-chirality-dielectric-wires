@@ -12,7 +12,7 @@ This is a guide to generate the figures that have been used in the work
 
 **„Maximizing the electromagnetic chirality of thin dielectric tubes“**
 
-_By Tilo Ares, Roland Griesmaier and Marvin Knöller._
+_By Tilo Arens, Roland Griesmaier and Marvin Knöller._
 
 You find all needed Matlab files in the folders. 
 
